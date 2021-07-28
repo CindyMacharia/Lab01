@@ -1,0 +1,6 @@
+Q.1 What s the difference between = and ==?
+  Ans: = Is used to assign a variable while == is used to check whether 2 expressions give the same value
+Q.2 Can I leave out the colon in an if, while of for statement?Yes/No
+  Ans:No
+Q.3 Should i use tab characters to indent my code?Yes/No
+  Ans: Yes
