@@ -1,0 +1,7 @@
+Q.1. Can I use matching double quotes for string literals instead of quotes? Yes/No
+     Ans:Yes
+Q.2. Can I compare strings using comparison operators such as == and < or built-in functions such as max() and min()? Yes/No
+    Ans:Yes
+Q.4. Is there a difference between = and == ? Yes/No
+    Ans:Yes
+
